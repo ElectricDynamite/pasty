@@ -1,0 +1,4 @@
+pasty
+=====
+
+Pasty Meta Project
