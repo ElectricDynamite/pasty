@@ -12,3 +12,6 @@ This is a Meta-Project, the real work is happening here:
 While Pasty is the name of a service that I offer, the software behind this service will be released as open source in time.
 This will offer anybody to write their own clients using the provided libraries, and set up their own server, in case they don't trust me.
 
+Contact
+-------
+Please direct your questions and suggestions to electricdynamite.apps@gmail.com
